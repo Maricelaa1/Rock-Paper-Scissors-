@@ -1,7 +1,7 @@
 #
 #Program: Rock paper Scissors
 #Programer: Maricela Manuel
-
+#This program allows the user to play a game of Rock Paper Scissor's with the computer it will give the user the option to choose then it will display "You Win" or "Computer Wins"
 
 
 
